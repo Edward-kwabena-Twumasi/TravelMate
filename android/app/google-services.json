@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137749759925",
+    "firebase_url": "https://travellersapp-e9daa-default-rtdb.firebaseio.com",
+    "project_id": "travellersapp-e9daa",
+    "storage_bucket": "travellersapp-e9daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137749759925:android:d88095cc4186a53de6bbfc",
+        "android_client_info": {
+          "package_name": "com.example.recovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137749759925-8se6l2bg5l57dmpm0pc7i22g6smrh7rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRcAedMHcNjsvYFGdXSv_hpFEgE2tQAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137749759925-8se6l2bg5l57dmpm0pc7i22g6smrh7rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
