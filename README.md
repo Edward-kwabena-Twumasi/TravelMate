@@ -1,6 +1,6 @@
 # TravelMate
 
-Undergraduate Research Project: Integrated ticketing for booking buses, trains, and flights with ease. 
+Undergraduate Research Project: Integrated ticketing for booking buses, trains, and flights with ease and a lot of innovative features. 
 
 ## Background
 
